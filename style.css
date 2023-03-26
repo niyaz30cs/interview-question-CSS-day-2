@@ -1,0 +1,40 @@
+.first
+{
+    background-color: red;
+}
+.one
+{
+    background-color: aqua;
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two
+{
+    background-color: blanchedalmond;
+    font-size: large;
+    font-weight:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.give
+{
+  font-size: larger;
+  font-weight: bold;  
+}
+.third
+{
+    font-size: large;
+    font-weight: bold;
+}
+.four
+{
+    background-color: darkgray;
+    color: white;
+    font-weight: bold;
+}
+.five
+{
+    background-color: chartreuse;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
